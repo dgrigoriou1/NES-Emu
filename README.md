@@ -1,5 +1,7 @@
 # NES-Emu
-Cycle accurate Nintendo NES emulator in C#.
+Cycle accurate Nintendo NES emulator in C#.\
+![smb](https://user-images.githubusercontent.com/38964466/43566223-bbb466bc-95fb-11e8-9313-d0652166a422.png)\
+![debugger](https://user-images.githubusercontent.com/38964466/43566227-bfa2ee1a-95fb-11e8-886f-d1fc1ed24802.png)
 
 # Progress
 CPU: All official instructions implemented and tested. Runs a single cycle each game loop.  
