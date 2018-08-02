@@ -19,5 +19,17 @@ on every tick, image testing tools, ppu viewer and log comparison tool with erro
 
 # Controls
 
+Default keyboard setup
+
+| NES           | Keyboard      |
+| ------------- | ------------- |
+| Up            | W             |
+| Down          | S             |
+| Left          | A             |
+| Right         | D             |
+| Select        | U             |
+| Start         | I             |
+| A             | N             |
+| B             | M             |
 
 # Screenshots
