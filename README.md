@@ -4,7 +4,7 @@ Cycle accurate Nintendo NES emulator in C#.
 # Progress
 CPU: All official instructions implemented and tested. Runs a single cycle each game loop.  
 
-PPU: Fully implemented
+PPU: 95%, Some edge case timing issues with sprite overflow and sprite zero hits.
 
 APU: Pulse1, Pulse2, Triangle and Noise channels are implemented.
 
